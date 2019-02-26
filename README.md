@@ -1,1 +1,1 @@
-# Stumpel-zuil
+# Stumpel zuil
