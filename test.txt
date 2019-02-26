@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 asflkasdflkjasdl;fkjasdlfajsdfljl
+=======
+sasfasdadsf
+
+Job Groen
+>>>>>>> IcemanHHW/master
